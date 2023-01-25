@@ -6,8 +6,8 @@ A 2B roda em servidores do repl.it juntamente com um keep alive para que ela fun
 
 # Funções
 ## Agradavel
-%marimba : seleciona aleatóriamente um vídeo de marimba.
-Responde mensagens de bom dia, boa tarde e boa noite.
+> %marimba : seleciona aleatóriamente um vídeo de marimba.
+> Responde mensagens de bom dia, boa tarde e boa noite.
 
 ## Etc
 %cocacola : envia um vídeo de uma cocacola.

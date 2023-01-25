@@ -2,7 +2,7 @@
 Repositório com o código do Discord Bot 2B.
 
 ## Funcionamento
-A 2B roda em servidores do repl.it juntamente com um keep alive para que ela funcione 24 horas mesmo sem atividade de usuários.
+A 2B roda em servidores do repl.it juntamente com um keep alive do UptimeRobot que utiliza Flask e Thread para que ela funcione 24 horas mesmo sem atividade de usuários.
 
 # Funções
 ## Agradavel
